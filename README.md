@@ -1,3 +1,4 @@
+```
 ┌──(zero㉿LAB.ONE)-[~/Development/DOD]
 └─$ python3 Profiler.py
 
@@ -464,3 +465,4 @@ Extracted Profiles (Sorted):
 Profiles saved to 'profiles_2024-11-23_02-30-56_1732325456.json'.
 
 Scraping process completed successfully.
+```
